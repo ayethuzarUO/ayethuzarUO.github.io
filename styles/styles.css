@@ -9,7 +9,7 @@ body {
 
 /* Banner Section */
 .banner {
-    background: url('images/nature_background.png') center/cover no-repeat;
+    background: url('../images/nature_background.png') center/cover no-repeat;
     text-align: center;
     color: white;
     padding: 100px 20px;
